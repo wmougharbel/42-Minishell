@@ -1,1 +1,1 @@
-[](!screen_minishell.gif)
+[!Screen Recording](screen_minishell.gif)
