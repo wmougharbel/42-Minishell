@@ -2,7 +2,7 @@
 
 <h1><b></b>Minishell</b></h1>
 
-Overview:
+<h2>Overview</h2>:
 Minishell is a fundamental project in the 42 curriculum, designed to teach students the inner workings of a shell and help them gain a deep understanding of processes, system calls, and Unix-like operating systems. This project challenges students to create a simplified version of a Unix shell, which is a crucial component of any modern computer system.
 
 Project Description:
