@@ -30,7 +30,8 @@ Developing Minishell can be a complex and challenging task for students. Some of
     Parsing: Properly parsing user input to separate commands, arguments, and operators can be tricky.
 
     Managing Processes: Understanding and managing child processes and executing commands within them require a solid grasp of system calls and process management.
-  Handling Signals: Implementing signal handling and ensuring processes respond correctly to signals like SIGINT and SIGQUIT can be complex.
+    
+    Handling Signals: Implementing signal handling and ensuring processes respond correctly to signals like SIGINT and SIGQUIT can be complex.
 
     Error Handling: Writing effective error messages and handling errors gracefully is crucial for a user-friendly shell.
 
