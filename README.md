@@ -1,1 +1,1 @@
-# 42-Minishell
+[![Screen Recording](screenshot_minishell.png)](screen_minishell.gif)
