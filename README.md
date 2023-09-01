@@ -1,4 +1,4 @@
-![](.extra/screen_minishell.gif)
+![](screen_minishell.gif)
 
 <h1><b></b>Minishell</b></h1>
 
