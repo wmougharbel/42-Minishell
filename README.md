@@ -2,13 +2,13 @@
 
 <h1><b></b>Minishell</b></h1>
 
-<h2>Overview</h2>:
+<h2>Overview</h2>
 Minishell is a fundamental project in the 42 curriculum, designed to teach students the inner workings of a shell and help them gain a deep understanding of processes, system calls, and Unix-like operating systems. This project challenges students to create a simplified version of a Unix shell, which is a crucial component of any modern computer system.
 
-Project Description:
+<h2>Project Description:</h2>
 The Minishell project is an integral part of the 42 curriculum, known for its hands-on approach to teaching software engineering skills. In this project, students are tasked with developing a basic shell that can perform various operations, including executing commands, managing environment variables, and handling signals. The goal is to create a functional and efficient shell that mimics the behavior of the standard Unix shell, such as bash.
 
-Key Features:
+<h2>Key Features:</h2>
 
     Command Execution: Minishell should be able to execute commands entered by the user, whether they are built-in commands or external executables located in the system's PATH.
 
